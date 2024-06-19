@@ -7,14 +7,14 @@ import json
 import paho.mqtt.client as mqtt
 
 #MQTT Connection parameters
-MQTT_ADDRESS:str = 'smarty.local'
-MQTT_TOPIC_SWITCH: str = 'smarty/switchcontrol/mainstudy'
+MQTT_ADDRESS:str = '<mqtt serverhostname>'
+MQTT_TOPIC_SWITCH: str = '<mqtt topic>'
 MQTT_CLIENT_ID:str = 'MQTTDataBridge'
 MQTT_PORT:int = 1883
 
 #Switches to control
-switchID1 = 'MAINSTUDY.Switch4'
-switchID2 = 'MAINSTUDY.Switch3'
+switchID1 = '<nodeID.SwitchID>'
+switchID2 = '<nodeID.SwitchID>'
 
 ptime = 0
 ctime = 0
