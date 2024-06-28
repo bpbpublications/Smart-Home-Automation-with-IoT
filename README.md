@@ -5,7 +5,7 @@ Enable smart homes with IoT open-source technologies
 This is the repository for [Smart Home Automation with IoT 
 ](https://bpbonline.com/products/smart-home-automation-with-iot),published by BPB Publications.
 
-<img src="9789355516305.jpg">
+<img src="9789355519191.jpg">
 
 ## About the Book
 This practical guide, "Smart Home Automation with IoT" shows you how to create a smart home without breaking the bank. Instead of relying on expensive, closed systems, you utilize the power of the Internet of Things (IoT) with open-source software to design a custom smart home experience that perfectly suits your needs.
